@@ -3,7 +3,7 @@
 
 /*root variable*/
 :root{
-    --primary-color: white;
+    --primary-color: rgb(255, 255, 255);
     --secondary-color:  rgba(255, 255, 255, 0.5);
 }
 
@@ -103,7 +103,7 @@ section img {
     position: relative;
     display: inline-block;
     padding: 8px 20px;
-    margin-top: 15px;
+    margin-top: 50px;
     background: var(--primary-color);
     color: black;
     border-radius: 20px;
