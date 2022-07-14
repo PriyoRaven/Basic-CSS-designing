@@ -1,3 +1,4 @@
+//parallax background shapes
 document.addEventListener("mousemove" , parallax);
 function parallax(e){
     this.querySelectorAll('.layer').forEach(layer => {
@@ -8,4 +9,12 @@ function parallax(e){
 
         layer.style.transform = `translateX(${x}px) translateY(${y}px)`
     })
+    
+//vanilla tilt.js
+VanillaTilt.init(document.querySelectorAll(".card"), {
+    max: 15,
+    speed: 400,
+    glare: true,
+    "max-glare": 0.5
+});
 }
