@@ -1,4 +1,3 @@
-var preloader = document.getElementById('preloader');
-function myFunction(){
-    preloader.style.display = 'none';
-}
+setTimeout(function(){
+    document.getElementById("preloader").style.display="none";
+ }, 5000);
