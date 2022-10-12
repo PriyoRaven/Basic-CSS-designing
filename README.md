@@ -39,6 +39,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - priyadarsi02@gmail.com
 
-Project Link: [https://github.com/PriyoRaven/MOBA](https://github.com/PriyoRaven/Basic-CSS-designing)
+Project Link: [https://github.com/PriyoRaven/Basic-CSS-designing](https://github.com/PriyoRaven/Basic-CSS-designing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
