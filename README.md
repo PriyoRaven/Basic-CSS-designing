@@ -24,7 +24,7 @@
 </div>
  
  # Project-Screenshot
- <img src="assets/images/ss.jpeg" alt="screenshot" width="500" height="400">
+ <img src="assets/images/screenshot.jpeg" alt="screenshot" width="650" height="400">
 
 ## Built With
 
